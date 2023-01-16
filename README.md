@@ -25,3 +25,4 @@
 
  ###  Connect with me:
 [![Taplink](https://img.shields.io/badge/taplink-3670A0?style=for-the-badge&logo=taplink&logoColor=ffdd54)](https://taplink.cc/iteacherma) 
+[![Instagram](https://img.shields.io/badge/instagram-3670A0?style=for-the-badge&logo=instagram&logoColor=ffdd54)](https://www.instagram.com/it.teacher.ma/)
