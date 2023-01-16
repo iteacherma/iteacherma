@@ -23,4 +23,5 @@
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
     ![Miro](https://img.shields.io/badge/miro-3670A0?style=for-the-badge&logo=miro&logoColor=ffdd54)
 
+ ###  Connect with me:
 [![Taplink](https://img.shields.io/badge/taplink-3670A0?style=for-the-badge&logo=taplink&logoColor=ffdd54)](https://taplink.cc/iteacherma) 
