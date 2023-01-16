@@ -22,7 +22,9 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
     ![Miro](https://img.shields.io/badge/miro-3670A0?style=for-the-badge&logo=miro&logoColor=ffdd54)
-
+<BR>
+  <BR>
  ###  Connect with me:
 [![Taplink](https://img.shields.io/badge/taplink-3670A0?style=for-the-badge&logo=taplink&logoColor=ffdd54)](https://taplink.cc/iteacherma) 
 [![Instagram](https://img.shields.io/badge/instagram-3670A0?style=for-the-badge&logo=instagram&logoColor=ffdd54)](https://www.instagram.com/it.teacher.ma/)
+    <BR>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iteacherma&show_icons=true)
